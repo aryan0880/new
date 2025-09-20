@@ -1,0 +1,57 @@
+SAFETYNEST - QUICK START GUIDE
+==============================
+
+📁 PROJECT LOCATION: C:\Users\Prathamesh\SafetyNest-Project\
+
+🚀 TO RUN THE APPLICATION:
+--------------------------
+1. Double-click "index.html" to open in your default browser
+   OR
+2. Right-click "index.html" → "Open with" → Choose your browser
+
+🔐 LOGIN CREDENTIALS:
+--------------------
+Username: demo
+Password: password
+
+✨ KEY FEATURES TO TEST:
+-----------------------
+1. SOS Emergency Alert - Press and hold the red SOS button
+2. Location Sharing - Click "Update Location" (allow location access)
+3. Emergency Contacts - Add/remove contacts in the contacts section
+4. Fake Call - Set delay and trigger realistic fake incoming call
+5. Flashlight Signal - Flash screen for emergency signaling
+6. Safety Notes - Save important safety information
+
+📱 MOBILE TESTING:
+-----------------
+- Works on phones, tablets, and computers
+- Touch-friendly interface
+- Vibration support (on compatible devices)
+
+🛠️ FILES INCLUDED:
+------------------
+- index.html - Main application (open this file)
+- README.md - Complete documentation
+- QUICKSTART.txt - This quick guide
+
+⚠️ IMPORTANT NOTES:
+-------------------
+- This is a DEMO/PROTOTYPE for testing purposes
+- All data stays on your device (privacy-first)
+- No internet connection required
+- In real emergencies, call your local emergency services
+
+💡 TIPS:
+--------
+- Allow location permissions for GPS features
+- Test all features in a safe environment first
+- Use fake call feature responsibly for safety only
+
+🆘 NEED HELP?
+-------------
+- Check README.md for complete documentation
+- All features include built-in help text
+- Demo credentials are shown on login screen
+
+ENJOY TESTING THE SAFETYNEST SAFETY APPLICATION! 🛡️
